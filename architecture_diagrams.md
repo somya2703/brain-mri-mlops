@@ -1,4 +1,4 @@
- Brain MRI Tumor Detection — End-to-End MLOps Pipeline
+# Brain MRI Tumor Detection — End-to-End MLOps Pipeline
 
 ## architecture diagrams
 
