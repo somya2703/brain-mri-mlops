@@ -34,4 +34,21 @@ To ensure the **health, performance, and scalability** of the brain MRI inferenc
 
   ---
   
-  ![grafana](Results/imgdump/Pasted image (10).png)
+  ![grafana](Results/imgdump/grafana.png)
+
+  ## Overall System Performance
+
+| Metric | Value |
+|------|------|
+| Peak Throughput | ~120 requests/sec |
+| Average Latency | ~2.6 ms |
+| P95 Latency | ~4.7 ms |
+| Total Requests Processed | ~13,000 |
+
+### Performance Insights
+
+| Observation | Description |
+|-------------|-------------|
+| Fast Inference | The system processes predictions with an average latency of ~2.6 ms. |
+| Low Latency Variance | The difference between average latency and P95 latency is small (~2 ms), indicating stable response times. |
+| Good Scalability | The API sustains ~120 requests per second under load. |
