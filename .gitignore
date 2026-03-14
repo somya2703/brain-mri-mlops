@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Data
+data/
+*.csv
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Outputs
+results/*.png
+
+# OS files
+.DS_Store
+
+# Docker
+*.log
