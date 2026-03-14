@@ -63,4 +63,4 @@ This project uses a modern MLOps stack designed to reflect **industry best pract
 * **Grafana** – Visualizes the metrics collected by Prometheus in interactive dashboards for easy monitoring and analysis.
 ---
 
-*Further Reading: [Results](Results/README.md), [Architecture(), [No Docker Version](no_docker_version.md).*
+*Further Reading: [Results](Results/README.md), [Architecture](architecture_diagrams.md), [No Docker Version](no_docker_version.md).*
