@@ -34,4 +34,4 @@ To ensure the **health, performance, and scalability** of the brain MRI inferenc
 
   ---
   
-  
+  ![grafana](Results/imgdump/Pasted image (10).png)
