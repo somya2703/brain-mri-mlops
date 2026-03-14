@@ -52,3 +52,12 @@ To ensure the **health, performance, and scalability** of the brain MRI inferenc
 | Fast Inference | The system processes predictions with an average latency of ~2.6 ms. |
 | Low Latency Variance | The difference between average latency and P95 latency is small (~2 ms), indicating stable response times. |
 | Good Scalability | The API sustains ~120 requests per second under load. |
+
+---
+
+## Dataset Analysis
+
+## Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+## Confidence Distribution
+![Confidence Distribution](confidence_distribution.png)
