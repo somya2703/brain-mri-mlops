@@ -34,7 +34,7 @@ To ensure the **health, performance, and scalability** of the brain MRI inferenc
 
   ---
   
-  ![grafana](Results/grafana.png)
+  ![grafana](grafana.png)
 
   ## Overall System Performance
 
